@@ -1,0 +1,16 @@
+{
+  "name": "hta-localstorage",
+  "version": "1.0.0",
+  "description": "Basic localStorage implementation for Internet Explorer HTML Applications (HTA)",
+  "main": "index.js",
+  "keywords": [
+    "hta",
+    "localstorage"
+  ],
+  "author": "Jonny Buchanan <jonathan.buchanan@gmail.com> (https://github.com/insin)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/insin/hta-localstorage.git"
+  },
+  "license": "MIT"
+}
